@@ -1,0 +1,26 @@
+y,x,x1,x2,x3,x4,x5,x6,x7,x8,x9
+1,211000,Fashion & Retail,Bernard Arnault & family,74,France,Paris,LVMH,Fashion & Retail,FALSE,M
+2,180000,Automotive,Elon Musk,51,United States,Austin,"Tesla, SpaceX",Automotive,TRUE,M
+3,114000,Technology,Jeff Bezos,59,United States,Medina,Amazon,Technology,TRUE,M
+4,107000,Technology,Larry Ellison,78,United States,Lanai,Oracle,Technology,TRUE,M
+5,106000,Finance & Investments,Warren Buffett,92,United States,Omaha,Berkshire Hathaway,Finance & Investments,TRUE,M
+6,104000,Technology,Bill Gates,67,United States,Medina,Microsoft,Technology,TRUE,M
+7,94500,Media & Entertainment,Michael Bloomberg,81,United States,New York,Bloomberg LP,Media & Entertainment,TRUE,M
+8,93000,Telecom,Carlos Slim Helu & family,83,Mexico,Mexico City,Telecom,Telecom,TRUE,M
+9,83400,Diversified,Mukesh Ambani,65,India,Mumbai,Diversified,Diversified,FALSE,M
+10,80700,Technology,Steve Ballmer,67,United States,Hunts Point,Microsoft,Technology,TRUE,M
+11,80500,Fashion & Retail,Francoise Bettencourt Meyers & family,69,France,Paris,L'Oréal,Fashion & Retail,FALSE,F
+12,79200,Technology,Larry Page,50,United States,Palo Alto,Google,Technology,TRUE,M
+13,77300,Fashion & Retail,Amancio Ortega,87,Spain,La Coruna,Zara,Fashion & Retail,TRUE,M
+14,76000,Technology,Sergey Brin,49,United States,Los Altos,Google,Technology,TRUE,M
+15,68000,Food & Beverage,Zhong Shanshan,68,China,Hangzhou,"Beverages, pharmaceuticals",Food & Beverage,TRUE,M
+16,64400,Technology,Mark Zuckerberg,38,United States,Palo Alto,Facebook,Technology,TRUE,M
+17,59000,Diversified,Charles Koch & family,87,United States,Wichita,Koch Industries,Diversified,FALSE,M
+17,59000,Diversified,Julia Koch & family,60,United States,New York,Koch Industries,Diversified,FALSE,F
+19,58800,Fashion & Retail,Jim Walton,74,United States,Bentonville,Walmart,Fashion & Retail,FALSE,M
+20,57600,Fashion & Retail,Rob Walton & family,78,United States,Bentonville,Walmart,Fashion & Retail,FALSE,M
+21,56700,Fashion & Retail,Alice Walton,73,United States,Fort Worth,Walmart,Fashion & Retail,FALSE,F
+22,54400,Media & Entertainment,David Thomson & family,65,Canada,Toronto,Media,Media & Entertainment,FALSE,M
+23,50100,Technology,Michael Dell,58,United States,Austin,Dell Technologies,Technology,TRUE,M
+24,47200,Diversified,Gautam Adani,60,India,Ahmedabad,"Infrastructure, commodities",Diversified,TRUE,M
+25,45100,Fashion & Retail,Phil Knight & family,85,United States,Hillsboro,Nike,Fashion & Retail,TRUE,M
